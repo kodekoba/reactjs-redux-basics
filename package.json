@@ -15,8 +15,11 @@
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.3",
+    "hoist-non-react-statics": "^3.3.0",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
+    "react-redux": "^5.1.1",
+    "react-time": "^4.3.0",
     "redux": "^4.0.4",
     "redux-logger": "^3.0.6"
   },
